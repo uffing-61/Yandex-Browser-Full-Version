@@ -238,4 +238,4 @@ This repository serves as the official landing page for Yandex Browser. The soft
 **Get the most recent version of Yandex Browser today!**
 
 ---
-**Last updated:** 2026-09-21 05:45:21 UTC
+**Last updated:** 2026-09-21 11:40:13 UTC
